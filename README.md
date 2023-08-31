@@ -42,7 +42,7 @@ Follow these steps to set up the project locally and start participating in web3
 1. Clone the repository:
 
 ```bash
-  git clone [https://github.com/theritalin/BSC-Bootcamp-Competition.git]
+  git clone https://github.com/theritalin/BSC-Bootcamp-Competition.git
 ```
 
 2. Navigate to the project directory:
