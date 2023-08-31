@@ -89,7 +89,7 @@ npm run test
 
 This command will initiate the smart contract tests and display the results in the terminal.
 
-![image](https://github.com/theritalin/BSC-Bootcamp-Competition/assets/test.jpg)
+![image](https://github.com/theritalin/BSC-Bootcamp-Competition/assets/test.png)
 
 ## Frontend
 
@@ -112,4 +112,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for your interest in the Freelancer DeMarket DApp project! For questions or suggestions, reach out to us or open an issue on [GitHub](https://github.com/Rise-In/XXX-Bootcamp-FinalCase). Happy bidding on the blockchain! 🚀
+Thank you for your interest in the Freelancer DeMarket DApp project! For questions or suggestions, reach out to us or open an issue on [GitHub](https://github.com/theritalin/BSC-Bootcamp-Competition). Happy bidding on the blockchain! 🚀
