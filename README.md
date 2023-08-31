@@ -89,7 +89,8 @@ npm run test
 
 This command will initiate the smart contract tests and display the results in the terminal.
 
-![image](https://github.com/theritalin/BSC-Bootcamp-Competition/assets/test.png)
+![image](https://github.com/theritalin/BSC-Bootcamp-Competition/blob/main/assets/test.png)
+
 
 ## Frontend
 
