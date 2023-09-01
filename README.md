@@ -73,8 +73,8 @@ Follow these steps to set up the project locally and start participating in web3
 
 The smart contracts in this project facilitate the auction process. They handle resgister account, creatiing project, and releasing funds. These contracts are deployed on the BSC TESTNET.
 
-- `EscrowContract.sol`: Responsible for deposit and paying funds.
-- `FreelanceDeMarket.sol`: Manages regisration, creating of projects.
+- `EscrowContract.sol`: Responsible for deposit and paying funds. (0x644B3f3A5eb81E2dC4Ff39c3B50A16B44876a795)
+- `FreelanceDeMarket.sol`: Manages regisration, creating of projects.(0xB5Db555eBA2A83FC2b475998Ec5e1da31B73767b)
 
 ## Testing
 
@@ -93,7 +93,7 @@ This command will initiate the smart contract tests and display the results in t
 
 ## Frontend
 
-The DApp frontend iis going to be built using React.js
+The DApp frontend is going to be built using React.js
 
 ## Contributing
 
