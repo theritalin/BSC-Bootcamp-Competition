@@ -18,8 +18,6 @@
 //   fs.writeFileSync("config.js", JSON.parse(data));
 // };
 
-
-
 const FreelanceDeMarket = artifacts.require("FreelanceDeMarket");
 const EscrowContract = artifacts.require("EscrowContract");
 
